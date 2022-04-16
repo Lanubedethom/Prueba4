@@ -1,7 +1,8 @@
 # Prueba4
 ## Prueba4
 
-```const saludar = () => {
+```javasript
+      const saludar = () => {
       console.log("hola, bross");
     }
  ``` 
